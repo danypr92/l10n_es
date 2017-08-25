@@ -1,0 +1,300 @@
+- abbr: C
+  ac: Galicia
+  ac_abbr: GA
+  country_id: '188'
+  id: '101'
+  name: "A Coru\xF1a/La Coru\xF1a"
+- abbr: VI
+  ac: "Pa\xEDs Vasco"
+  ac_abbr: PV
+  country_id: '188'
+  id: '102'
+  name: "Araba/\xC1lava"
+- abbr: AB
+  ac: Castilla-La Mancha
+  ac_abbr: CM
+  country_id: '188'
+  id: '103'
+  name: Albacete|Albacete
+- abbr: A
+  ac: Comunidad Valenciana
+  ac_abbr: VC
+  country_id: '188'
+  id: '104'
+  name: Alacant/Alicante
+- abbr: AL
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '105'
+  name: "Almer\xEDa"
+- abbr: O
+  ac: Asturias
+  ac_abbr: AS
+  country_id: '188'
+  id: '106'
+  name: Asturias
+- abbr: AV
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '107'
+  name: "\xC1vila"
+- abbr: BA
+  ac: Extremadura
+  ac_abbr: EX
+  country_id: '188'
+  id: '108'
+  name: Badajoz
+- abbr: PM
+  ac: Islas Baleares
+  ac_abbr: IB
+  country_id: '188'
+  id: '109'
+  name: Balears
+- abbr: B
+  ac: "Catalu\xF1a"
+  ac_abbr: CT
+  country_id: '188'
+  id: '110'
+  name: Barcelona
+- abbr: BI
+  ac: "Pa\xEDs Vasco"
+  ac_abbr: PV
+  country_id: '188'
+  id: '111'
+  name: Bizkaia/Vizcaya
+- abbr: BU
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '112'
+  name: Burgos
+- abbr: CC
+  ac: Extremadura
+  ac_abbr: EX
+  country_id: '188'
+  id: '113'
+  name: "C\xE1ceres"
+- abbr: CA
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '114'
+  name: "C\xE1diz"
+- abbr: S
+  ac: Cantabria
+  ac_abbr: CB
+  country_id: '188'
+  id: '115'
+  name: Cantabria
+- abbr: CS
+  ac: Comunidad Valenciana
+  ac_abbr: VC
+  country_id: '188'
+  id: '116'
+  name: "Castell\xF3/Castell\xF3n"
+- abbr: CR
+  ac: Castilla-La Mancha
+  ac_abbr: CM
+  country_id: '188'
+  id: '117'
+  name: Ciudad Real
+- abbr: CO
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '118'
+  name: "C\xF3rdoba"
+- abbr: CU
+  ac: Castilla-La Mancha
+  ac_abbr: CM
+  country_id: '188'
+  id: '119'
+  name: Cuenca
+- abbr: SS
+  ac: "Pa\xEDs Vasco"
+  ac_abbr: PV
+  country_id: '188'
+  id: '120'
+  name: "Gipuzkoa/Guip\xFAzcoa"
+- abbr: GI
+  ac: "Catalu\xF1a"
+  ac_abbr: CT
+  country_id: '188'
+  id: '121'
+  name: Girona/Gerona
+- abbr: GR
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '122'
+  name: Granada
+- abbr: GU
+  ac: Castilla-La Mancha
+  ac_abbr: CM
+  country_id: '188'
+  id: '123'
+  name: Guadalajara
+- abbr: H
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '124'
+  name: Huelva
+- abbr: HU
+  ac: "Arag\xF3n"
+  ac_abbr: AR
+  country_id: '188'
+  id: '125'
+  name: Huesca
+- abbr: J
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '126'
+  name: "Ja\xE9n"
+- abbr: LO
+  ac: La Rioja
+  ac_abbr: RI
+  country_id: '188'
+  id: '127'
+  name: La Rioja
+- abbr: GC
+  ac: Canarias
+  ac_abbr: CN
+  country_id: '188'
+  id: '128'
+  name: Las Palmas
+- abbr: LE
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '129'
+  name: "Le\xF3n"
+- abbr: L
+  ac: "Catalu\xF1a"
+  ac_abbr: CT
+  country_id: '188'
+  id: '130'
+  name: "Lleida/L\xE9rida"
+- abbr: LU
+  ac: Galicia
+  ac_abbr: GA
+  country_id: '188'
+  id: '131'
+  name: Lugo
+- abbr: M
+  ac: Comunidad de Madrid
+  ac_abbr: MD
+  country_id: '188'
+  id: '132'
+  name: Madrid
+- abbr: MA
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '133'
+  name: "M\xE1laga"
+- abbr: MU
+  ac: "Regi\xF3n de Murcia"
+  ac_abbr: MC
+  country_id: '188'
+  id: '134'
+  name: Murcia
+- abbr: NA
+  ac: Navarra
+  ac_abbr: NC
+  country_id: '188'
+  id: '135'
+  name: Nafarroa/Navarra
+- abbr: OR
+  ac: Galicia
+  ac_abbr: GA
+  country_id: '188'
+  id: '136'
+  name: Ourense
+- abbr: P
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '137'
+  name: Palencia
+- abbr: PO
+  ac: Galicia
+  ac_abbr: GA
+  country_id: '188'
+  id: '138'
+  name: Pontevedra
+- abbr: SA
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '139'
+  name: Salamanca
+- abbr: TF
+  ac: Canarias
+  ac_abbr: CN
+  country_id: '188'
+  id: '140'
+  name: Santa Cruz de Tenerife
+- abbr: SG
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '141'
+  name: Segovia
+- abbr: SE
+  ac: "Andaluc\xEDa"
+  ac_abbr: AN
+  country_id: '188'
+  id: '142'
+  name: Sevilla
+- abbr: SO
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '143'
+  name: Soria
+- abbr: T
+  ac: "Catalu\xF1a"
+  ac_abbr: CT
+  country_id: '188'
+  id: '144'
+  name: Tarragona
+- abbr: TE
+  ac: "Arag\xF3n"
+  ac_abbr: AR
+  country_id: '188'
+  id: '145'
+  name: Teruel
+- abbr: TO
+  ac: Castilla-La Mancha
+  ac_abbr: CM
+  country_id: '188'
+  id: '146'
+  name: Toledo
+- abbr: V
+  ac: Comunidad Valenciana
+  ac_abbr: VC
+  country_id: '188'
+  id: '147'
+  name: "Val\xE8ncia/Valencia"
+- abbr: VA
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '148'
+  name: Valladolid
+- abbr: ZA
+  ac: "Castilla y Le\xF3n"
+  ac_abbr: CL
+  country_id: '188'
+  id: '149'
+  name: Zamora
+- abbr: Z
+  ac: "Arag\xF3n"
+  ac_abbr: AR
+  country_id: '188'
+  id: '150'
+  name: Zaragoza
